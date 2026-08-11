@@ -1,4 +1,8 @@
-# etzhayyim-project-isekai — isekai.etzhayyim.com
+# actor-isekai — isekai.etzhayyim.com
+
+Canonical repository: `network-awai/actor-isekai`. This repo owns governed
+gameplay-event and world-state orchestration; `network-awai/network-isekai`
+owns the public application, renderer, editor, fork flow, and asset hub.
 
 **ISEKAI** — Minecraft voxel sandbox + Pokoa creature collection + Brainrot meme chaos。KAMI Engine WebGPU で異世界転生オープンワールド。Guest Mode でログイン不要プレイ。
 

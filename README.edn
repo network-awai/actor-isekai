@@ -1,0 +1,10 @@
+{:repo/id "network-awai/actor-isekai"
+ :repo/plane :role
+ :repo/role :governed-executable-actor
+ :repo/execution :resident
+ :actor/id :isekai
+ :actor/identity "did:web:etzhayyim.com:actor:isekai"
+ :repo/boundary {:owns [:world-state :crafting-events :creature-roster :gameplay-event-orchestration]
+                 :application-runtime "network-awai/network-isekai"
+                 :does-not-own [:browser-renderer :editor :fork-publish-flow :asset-hub]
+                 :compatibility-repository "etzhayyim/com-etzhayyim-isekai"}}
