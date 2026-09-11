@@ -10,4 +10,4 @@ asset hub. This actor owns only event/world-state orchestration and compatibilit
 collections; it does not duplicate the application runtime. Historical
 etzhayyim DID, namespace, Radicle identity, and GitHub URL remain aliases.
 
-Run `clojure -M:test` for the executable contract suite.
+Run `kbb -M:test` for the executable contract suite.
